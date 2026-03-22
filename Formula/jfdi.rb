@@ -15,8 +15,8 @@ class Jfdi < Formula
 
   desc "CLI fitness tracker that pushes you to hit daily exercise goals with Shia LaBeouf energy"
   homepage "https://github.com/Solarden/just-fucking-do-it"
-  url "https://github.com/Solarden/just-fucking-do-it/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "f2029bdf4657eb5d2496b29016affc56eea042b6d9dd619c58f9fce204439def"
+  url "https://github.com/Solarden/just-fucking-do-it/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "b76d8e011bfaf47eda573f1bc9d19c62a707f0e23e2e8e131a6972bbc4c3324f"
   license "MIT"
 
   depends_on "python@3.13"
